@@ -18,7 +18,7 @@ These bots run on Robinhood Predictions through a single venue adapter on the sh
 
 | Strategy |
 |----------|
-| 🎯 **Direction Hunting** — define the edge once, the engine grinds 24/7 (auto TP + SL) |
+| 🎯 **Directional Arbitrage** — arb base (Up + Down < $1), tilted toward the side with more edge |
 | 🏆 **Sports Execution** — click, filled, done — under 50ms FAK |
 
 > Want a strategy not listed here on Robinhood Predictions? Adapter coverage is demand-driven — [ask](https://t.me/HarrierOnChain).
